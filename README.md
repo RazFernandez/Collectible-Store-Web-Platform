@@ -583,7 +583,7 @@ public class PriceWebSocket {
 ### 5.3 Evidence Screenshots
 | No. | Screenshot | Description |
 |-----|-------------|-------------|
-| 1 | ![Database Configuration Screenshot](Images/Image1.png) | WebSocket server broadcasting price updates. |
+| 1 | ![Database Configuration Screenshot](Images/image1.png) | WebSocket server broadcasting price updates. |
 | 2 | ![Database Configuration Screenshot](Images/Image2.png) | Newman test suite confirming successful API responses. |
 | 3 | ![Database Configuration Screenshot](Images/Image3.png) | Log-in. |
 | 4 | ![Database Configuration Screenshot](Images/Image4.png) | Cart. |
