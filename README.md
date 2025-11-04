@@ -329,10 +329,6 @@ By the end of Challenge 6, the student demonstrates proficiency in:
 
 ---
 
-*End of Part I – Context, Vision & Methodology*  
-Next: **Part II – Architecture, Implementation & Testing (Sprints 1 – 3)**  
-
-
 # 🧱 Part II — Architecture, Implementation & Testing (Sprints 1–3)
 
 ---
@@ -587,8 +583,10 @@ public class PriceWebSocket {
 ### 5.3 Evidence Screenshots
 | No. | Screenshot | Description |
 |-----|-------------|-------------|
-| 1 | `06-ws-demo.png` | WebSocket server broadcasting price updates. |
-| 2 | `07-tests.png` | Newman test suite confirming successful API responses. |
+| 1 | ![Database Configuration Screenshot](Images/Image1.png) | WebSocket server broadcasting price updates. |
+| 2 | ![Database Configuration Screenshot](Images/Image2.png) | Newman test suite confirming successful API responses. |
+| 3 | ![Database Configuration Screenshot](Images/Image3.png) | Log-in. |
+| 4 | ![Database Configuration Screenshot](Images/Image4.png) | Cart. |
 
 ### 5.4 Sprint Retrospective
 - ✅ *Achievements:* Real‑time updates functional and stable.  
@@ -837,10 +835,8 @@ PhD in Materials Science & Engineering | Full‑Stack & Fronte
 **Miguel Raziel Jesús Fernández Noroña**  
 Computer Systems Engineering | Full‑Stack & Backend Developer
 - GitHub: [@Razfernandez](https://github.com/RazFernandez)  
-- LinkedIn: [Iván Kaleb Ramírez Torres](https://linkedin.com/in/mrjfernandez)  
+- LinkedIn: [Miguel Raziel Jesús Fernández Noroña](https://linkedin.com/in/mrjfernandez)  
 
-> *“Sustainable software is not only about writing clean code—it’s about designing systems that remain ethical, inclusive, and relevant in time.”*
 
----
 
-*End of Part III — Sustainability, Innovation, Costs & Reflections*
+
